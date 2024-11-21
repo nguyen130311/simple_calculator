@@ -1,21 +1,3 @@
-﻿/*
-   **HƯỚNG DẪN SỬ DỤNG!!!**
-   " + ": Phép cộng;  " - ": Phép trừ;   " * ": Phép nhân;   " / ": Phép chia;   " % ": Phép chia (Lấy phần dư);
-   " ^n ": Lũy thừa bậc n;   " > ": Check xem a > b là True hay False;   " < ": Check xem a < b là True hay False;
-   " == ": Check xem a có bằng b hay không (a == b là True hay False);
-   **LƯU Ý: Những lệnh trên sau khi nhập input rồi toán tử vào thì nhập thêm input2 để thực hiện phép tính giữa
-   input và input2**
-    --- Còn những lệnh dưới đây chỉ cần nhập input thôi là đã có kết quả:
-   " sqrt() ": Tính căn bậc 2 số học;   " ^2 ": Lũy thừa bậc 2;   " ^3 ": Lũy thừa bậc 3;
-   " abs() ": Tìm giá trị lớn nhất của a;  " prime() ": Check xem a có phải là số nguyên tố hay không (ra kết quả True or False);   " = ": xóa bộ nhớ và in ra số đã nhập;
-   **Code này chỉ có thể chạy được trên console của IDE nào đó hoặc trên console của
-    Windows chứ không phải là application nên chỉ có thể thao tác nhập - xuất và không có GUI (giao diện người dùng)
-    nên mong các bạn thông cảm :))**
-    **LƯU Ý NHỎ: Nhập đúng những gì cần nhập; nhập số tương ứng theo từng phép tính như
-    trên màn hình**
-    VD: muốn tính giai thừa thì nhập fact() như trên màn hình
-    Chúc các bạn sử dụng ứng dụng dui dẻ *\( ￣︶￣*\))
-*/
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long
